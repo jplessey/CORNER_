@@ -1,0 +1,24 @@
+
+{% extends 'layout.html' %}
+
+{% block body %}
+
+      <div class="jumbotron text-center">
+        <div class="container">
+          <h1 class="display-4">CORNER_</h1>
+          <p class="lead">dare to tell a story...</p>
+        </div>
+      </div>
+
+  <h2>Articles</h2>
+<ul class="list-group">
+  {% for article in articles %}
+  <li class="list-group-item"><a href="article/{{article.id}}"><h5>{{article.title}}</h5> by {{article.author}} </a></li>
+  {% endfor %}
+</ul>
+
+{% endblock %}
+
+
+
+
