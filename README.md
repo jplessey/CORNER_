@@ -16,3 +16,4 @@ Those changes included:
 
 These are some views of CORNER_
 
+<img src="images/Screenshot from 2019-05-09 22-07-05.png">
