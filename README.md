@@ -1,7 +1,7 @@
 # CORNER_
 Web application for writers and journalists.
 
-CORNER_ is a web-application which was built using Flask. It’s based on the "Python Flask From Scratch" tutorials series by Traversy Media.
+CORNER_ is a web-application which was built using Flask. It’s based on the "Python Flask From Scratch" tutorials series by Traversy Media (Brad Traversy).
 
 The original purpose of the tutorials consisted on building a generic application for writing, posting and editing articles.
 It included features like User Registration, Login and Access control.
@@ -16,4 +16,20 @@ Those changes included:
 
 These are some views of CORNER_
 
+Home
+
 <img src="images/Screenshot from 2019-05-09 22-07-05.png">
+
+View of an article
+
+<img src="images/Screenshot from 2019-05-09 22-07-32.png">
+
+User Dashboard
+
+<img src="images/Screenshot from 2019-05-09 22-08-00.png">
+
+Edit an article
+
+<img src="images/Screenshot from 2019-05-09 22-08-39.png">
+
+
