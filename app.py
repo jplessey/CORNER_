@@ -194,9 +194,6 @@ def logout():
 @app.route('/dashboard')
 @is_logged_in
 def dashboard():
-    # session['username'] = username
-    # username = session['username']
-    # username = request.form['username']
     name = session['name']
 
     # Create cursor
